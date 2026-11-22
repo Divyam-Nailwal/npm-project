@@ -2,6 +2,7 @@
   "name": "date-toolkit-playground",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://npm-project-seven.vercel.app/",
   "type": "module",
   "scripts": {
     "dev": "vite",

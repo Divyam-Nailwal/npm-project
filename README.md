@@ -2,6 +2,14 @@
 
 An interactive, responsive playground and showcase dashboard for **[@shukracharya/date-helper-js](https://www.npmjs.com/package/@shukracharya/date-helper-js)** — the lightweight, zero-dependency modern date utility library by Divyam Nailwal.
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-npm--project--seven.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://npm-project-seven.vercel.app/)
+[![npm version](https://img.shields.io/npm/v/@shukracharya/date-helper-js.svg?style=for-the-badge)](https://www.npmjs.com/package/@shukracharya/date-helper-js)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+
+🔗 **Live Deployment**: [https://npm-project-seven.vercel.app/](https://npm-project-seven.vercel.app/)
+
+---
+
 ## Features
 
 - ⏱️ **Live Clock & Formatting**: Test custom token patterns (`YYYY`, `MM`, `DD`, `HH`, `mm`, `ss`) with live validation and preset chips.
@@ -28,6 +36,10 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## Live Demo
+Check out the production deployment running live on Vercel:
+👉 **[https://npm-project-seven.vercel.app/](https://npm-project-seven.vercel.app/)**
 
 ## Built With
 - **[@shukracharya/date-helper-js](https://www.npmjs.com/package/@shukracharya/date-helper-js)**
